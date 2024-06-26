@@ -5,7 +5,7 @@ function Logo(){
         <img className="w-20 rounded" 
         src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
         alt="github-logo" />
-        <h1 className=" text-4xl px-2 first-letter:text-5xl text-center">Github Users</h1>
+        <h1 className=" text-4xl px-2 first-letter:text-5xl text-center">GitHunt</h1>
     </div>)
 };
 
